@@ -22,7 +22,7 @@ controllers/*
 core/*
 css/*
 datasource/*
-helpres/*
+helpers/*
 libs/*
 payments/*
 php/*
