@@ -5,13 +5,29 @@
 !*/cache/index.html
 !*/cache/.htaccess
 
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
-
 #codeigniter 3
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+
+#php storm
+.idea/*
+
+#client zone
+admin/*
+classes/*
+config/*
+controllers/*
+core/*
+css/*
+datasource/*
+helpres/*
+libs/*
+payments/*
+php/*
+template/*
+temporary/*
+deprecated_index.php
+.htaccess
+

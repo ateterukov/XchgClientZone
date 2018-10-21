@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-4": {"application\\": "application/"}
+    },
+
+    "require": {
+        "geoip2/geoip2": "~2.0"
+    }
+}
